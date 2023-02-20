@@ -1,0 +1,14 @@
+<name>Tony Montana</name>
+        <age>28</age>
+        <Pet>
+                <Pet_type>cat</Pet_type>
+                <Pet_name>Senya</Pet_name>
+                <Pet>
+                        <Pet_type>dog</Pet_type>
+                        <Pet_name>Mikki</Pet_name>
+                        <PET>
+                                <pet_type>dog</pet_type>
+                                <Pet_name>Charlie</Pet_name>
+                        </PET>< future_salary>1337
+                </ future_salary>
+        </Pet>
